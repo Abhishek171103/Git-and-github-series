@@ -1,5 +1,4 @@
 # Git and Github notes
-
 ---
 
 ## 🔰 1. Project start karne ke liye (Daily use)
